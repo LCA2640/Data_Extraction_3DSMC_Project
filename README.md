@@ -17,6 +17,7 @@ Make sure to change the directory of the generated TXT file on each MATLAB code
 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/afda282f-cdf4-4f6d-a621-6edd1bfa22c4" />
 
+Run each program to generate the Data according to the image you wish to analyze from the DATA downloaded
 
 
 
