@@ -15,7 +15,8 @@ When downloading the programs, make sure to copy the MATLAB programs on the same
 
 Make sure to change the directory of the generated TXT file on the code 
 
-<img width="226" alt="image" src="https://github.com/user-attachments/assets/1e026dfd-857f-4e7c-b6e5-bd6f178ec3af" />
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/afda282f-cdf4-4f6d-a621-6edd1bfa22c4" />
+
 
 
 
